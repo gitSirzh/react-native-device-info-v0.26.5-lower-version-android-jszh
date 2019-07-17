@@ -1,0 +1,29 @@
+{
+  "name": "react-native-device-info-lower-version-android-jszh",
+  "version": "0.26.5",
+  "description": "Get device information using react-native",
+  "main": "deviceinfo.js",
+  "dependencies": {
+    "np": "^2.16.0",
+    "prettier": "^1.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "shipit": "np"
+  },
+  "typings": "./deviceinfo.d.ts",
+  "author": "jszh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitSirzh/react-native-device-info-v0.26.5-lower-version-android-jszh.git"
+  },
+  "keywords": [
+    "version",
+    "compatible"
+  ],
+  "bugs": {
+    "url": "https://github.com/gitSirzh/react-native-device-info-v0.26.5-lower-version-android-jszh/issues"
+  },
+  "homepage": "https://github.com/gitSirzh/react-native-device-info-v0.26.5-lower-version-android-jszh#readme"
+}
